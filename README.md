@@ -1,6 +1,6 @@
 # The Open Source Audit: Apache
 
-**Student Name:** Arpita577-byte <br>
+**Student Name:** Arpita Matta <br>
 **Registration Number:** 24BCE10763 <br>
 **Project Focus:** Apache (FOSS Audit)
 
